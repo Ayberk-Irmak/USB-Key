@@ -29,7 +29,7 @@ This project provides a security mechanism for Windows computers, allowing acces
 
     ```bash
     git clone https://github.com/your-username/usb-key-security-system.git
-    cd usb-key-security-system
+    cd USB-Key
     ```
 
 2. **Install the required packages**:
